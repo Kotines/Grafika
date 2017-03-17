@@ -1,0 +1,5 @@
+﻿  ConsoleApplication3.cpp
+c:\users\student\documents\kaz\consoleapplication3\consoleapplication3\consoleapplication3.cpp(32): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\student\documents\kaz\consoleapplication3\consoleapplication3\consoleapplication3.cpp(33): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  ConsoleApplication3.vcxproj -> C:\Users\student\Documents\kaz\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> C:\Users\student\Documents\kaz\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Full PDB)
